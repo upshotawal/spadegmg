@@ -1,0 +1,148 @@
+{
+    "Header": {
+        "title": "We are Ace Gamming",
+        "paragraph": "It's hard to walk away from a winning streak, even harder to leave the table when you're on a losing one.Join ace gaming now,where playing becomes profitable. Ace Gamming now offering some amazing promos for you guys to try "
+    },
+    "About": {
+        "paragraph": "Hello there, We're Ace gaming! We have seven game available right now (Vpower, Milkyway, OrionStars, FireKirin, Ultramonster, Panda Master and DoubleUp) We're also matching 50% on your first deposit for every game.",
+        "Why": [
+            "24/7 Service",
+            "Hot Tables",
+            "Easy Cashout",
+            "Referral Bonus"
+        ],
+        "Why2": [
+            "SignUp Bonus",
+            "Upto $500 Cashout",
+            "Excellent Costumer Service",
+            "Avilable On All Platfrom"
+        ]
+    },
+    "Gallery": [{
+            "title": "VPOWER",
+            "link": "http://vpowerusa.com/download.html",
+            "smallImage": "img/portfolio/vpower.jpg"
+        },
+        {
+            "title": "FIRE KIRIN",
+            "link": "https://firekirin.com/download-fire-kirin-app.html",
+            "smallImage": "img/portfolio/firekirin.jpg"
+        },
+        {
+            "title": "ULTRA MONSTER",
+            "link": "https://www.ultramonster.net/",
+            "smallImage": "img/portfolio/ultramonster.jpg"
+        },
+        {
+            "title": "PANDA MASTER",
+            "link": "https://pandamaster.vip:8888/index.html",
+            "smallImage": "img/portfolio/pandamaster.jpg"
+        },
+        {
+            "title": "MILKY WAY",
+            "link": "https://milkywayapp.xyz/",
+            "smallImage": "img/portfolio/milky.jpg"
+        },
+        {
+            "title": "DOUBLE UP",
+            "link": "http://double-up.xyz:8580/index.html",
+            "smallImage": "img/portfolio/doubleup1.png"
+        },
+        {
+            "title": "ORION STAR",
+            "link": "https://orionstarsonline.com/",
+            "smallImage": "img/portfolio/orionstar.jpg"
+        }
+    ],
+    "Services": [{
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Differnt Games Avilable",
+            "text": "We provide different platforms for you guys to play on. We have Seven games in total"
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Load Any Game From Us",
+            "text": "We also provide topup facility for all the different games that we let you play with genuin software "
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Avilable On Differnt Platforms",
+            "text": "You can play any of our games on pc, android or iphone we got you covered and we also provide you a guide as well"
+        }
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Great people and awesome service.i highly recommend to all players to come try the platforms .\"",
+            "name": "Juan Bautistate"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Definitely recommend fast and friendly service\"",
+            "name": "Latavious Shepherd"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"One of the best gaming pages in the town. I played alot with them not a single issue.\"",
+            "name": "Derrick Davidson"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Good cash out, Good load and very good service, Definetly Recommend\"",
+            "name": "Sharnie Ell Suguturaga"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Best place if you are trying to win big. Won 500$ and got cashed out without any issue.\"",
+            "name": "Joshua Trujillo"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"I like ace gaming very much. I am confident you guys will love it as well.\"",
+            "name": "Charity Vaughn"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/cashtag.png",
+            "name": "Gena Lewis",
+            "job": "Director",
+            "link": "https://cash.app/$acegmg132"
+        },
+        {
+            "img": "img/team/fire.png",
+            "name": "Stephanie Mcfarlane",
+            "job": "Senior Designer",
+            "link": "https://cash.app/$fkirin732"
+        }
+    ],
+    "Contact": {
+        "address": "2562 Poco Mas Drive, Dallas, 75247 ",
+        "phone": "+1 214-814-6089",
+        "email": "acegmgmainid@gmail.com",
+        "facebook": "https://www.facebook.com/acegmg777",
+        "cashtag": "$acegmg132.... //......  $fkirin732",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com",
+        "cashtags": "https://cash.app/$acegmg132"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Good Communication",
+            "text": "Ace Gaming has well train staffs for better communitcation with costumers"
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Best Promos",
+            "text": "Ace Gaming also provide best bonnus and matches in the entire market"
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Large Player Base",
+            "text": "We have Large player base which means we are trust worthy and also have great cashouts"
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Instant Feedback",
+            "text": "We take our jobs seriously so na matter the situation we always listen to our costumers"
+        }
+    ]
+}
